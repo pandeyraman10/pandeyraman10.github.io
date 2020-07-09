@@ -3,12 +3,12 @@ body{
   }
   .box{
   /* Basic styling and alignment */
-  margin-left: 5px;
-  margin-right: 5px;
+  margin-left: 50px;
+  margin-right: 50px;
   margin-top:5px;
   border-radius:4px;
-  width:auto;
-  height:auto;
+  width:200px;
+  height:270px;
     /* Basic styling and alignment */
   /* For Neumorphism Effect */
   background-color:#E0E5EC;
